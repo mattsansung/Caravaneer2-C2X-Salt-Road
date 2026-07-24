@@ -2,7 +2,7 @@
 
 Fan-made campaign expansion built from the original game's existing assets.
 
-## Handwritten Story Playtest 8
+## Handwritten Story Playtest 9
 
 - Template-generated campaign content has been removed
 - Handwritten Salt Road main-story chapter
@@ -19,6 +19,7 @@ Fan-made campaign expansion built from the original game's existing assets.
 - Added materially different Salt Road outcomes with distinct payment, supplies, relationships and epilogues
 - Fixed Iven's 100-liter delivery when fractional travel consumption is rounded in the cargo display
 - Repaired early saves whose active Water for Dry Ledger quest was out of sync with its internal story stage
+- Replaced Rhea's stale “find Iven” reminder with stage-specific directions to Sable in Reed Market and Daro in Black Pump
 - Explicit destination and objective guidance in the mission log
 - Confrontations, refusals, post-story conversations and relationship scenes
 - English, Simplified Chinese and Traditional Chinese text
