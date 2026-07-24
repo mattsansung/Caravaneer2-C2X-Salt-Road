@@ -2,7 +2,7 @@
 
 Fan-made campaign expansion built from the original game's existing assets.
 
-## Handwritten Story Playtest 14
+## Handwritten Story Playtest 15
 
 - Template-generated campaign content has been removed
 - Handwritten Salt Road main-story chapter
@@ -29,6 +29,9 @@ Fan-made campaign expansion built from the original game's existing assets.
 - Added a clear content notice and a final Continue/Withdraw decision before the coercive event; withdrawal returns safely to the other outcomes
 - Fixed black dialogue screens for Lysa, Orren and Kera by remapping all three to verified in-range portrait assets
 - Existing saves automatically migrate their locations, dialogue progress and relationship values to the corrected character IDs
+- Added runtime reconstruction of Orren's Dry Ledger location for saves where his entrance is missing
+- Lysa now has follow-up conversations about Orren, Kera and why she recruited the player
+- Iven provides a fallback clue that also restores Orren's entrance without restarting the campaign
 - Explicit destination and objective guidance in the mission log
 - Confrontations, refusals, post-story conversations and relationship scenes
 - English, Simplified Chinese and Traditional Chinese text
