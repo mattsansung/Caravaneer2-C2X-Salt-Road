@@ -2,12 +2,15 @@
 
 Fan-made campaign expansion built from the original game's existing assets.
 
-## Handwritten Story Playtest 1
+## Handwritten Story Playtest 2
 
 - Template-generated campaign content has been removed
 - Handwritten Salt Road main-story chapter
 - Five distinct characters using existing game assets
+- A self-contained first-town introduction quest
 - Three-stage Ash Clinic investigation with three outcomes
+- Accepting, skeptical and lightly sarcastic player responses
+- Corrected portraits, character genders and southbound route guidance
 - Explicit destination and objective guidance in the mission log
 - Confrontations, refusals, post-story conversations and relationship scenes
 - English, Simplified Chinese and Traditional Chinese text
