@@ -2,7 +2,7 @@
 
 Fan-made campaign expansion built from the original game's existing assets.
 
-## Handwritten Story Playtest 13
+## Handwritten Story Playtest 14
 
 - Template-generated campaign content has been removed
 - Handwritten Salt Road main-story chapter
@@ -27,6 +27,8 @@ Fan-made campaign expansion built from the original game's existing assets.
 - Kera remains conversational on the coercive route, using dialogue for reconnaissance, concealment and possible resistance
 - Made the coercive event unambiguous through non-graphic dialogue and direct classification as sexual assault, without depicting the act
 - Added a clear content notice and a final Continue/Withdraw decision before the coercive event; withdrawal returns safely to the other outcomes
+- Fixed black dialogue screens for Lysa, Orren and Kera by remapping all three to verified in-range portrait assets
+- Existing saves automatically migrate their locations, dialogue progress and relationship values to the corrected character IDs
 - Explicit destination and objective guidance in the mission log
 - Confrontations, refusals, post-story conversations and relationship scenes
 - English, Simplified Chinese and Traditional Chinese text
