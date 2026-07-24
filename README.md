@@ -2,7 +2,7 @@
 
 Fan-made campaign expansion built from the original game's existing assets.
 
-## Handwritten Story Playtest 9
+## Handwritten Story Playtest 10
 
 - Template-generated campaign content has been removed
 - Handwritten Salt Road main-story chapter
@@ -20,6 +20,9 @@ Fan-made campaign expansion built from the original game's existing assets.
 - Fixed Iven's 100-liter delivery when fractional travel consumption is rounded in the cargo display
 - Repaired early saves whose active Water for Dry Ledger quest was out of sync with its internal story stage
 - Replaced Rhea's stale “find Iven” reminder with stage-specific directions to Sable in Reed Market and Daro in Black Pump
+- Added the three-part first-region side story “Lime Dust,” with two adult women and one information broker
+- Supports clue-based inquiry, persuasion, bribery or intimidation, followed by merciful, independent or exploitative outcomes
+- Added a consensual, non-explicit intimacy scene available only after the respectful rescue path; intimidation permanently closes it
 - Explicit destination and objective guidance in the mission log
 - Confrontations, refusals, post-story conversations and relationship scenes
 - English, Simplified Chinese and Traditional Chinese text
