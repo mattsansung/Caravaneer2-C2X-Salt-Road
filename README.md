@@ -2,7 +2,7 @@
 
 Fan-made campaign expansion built from the original game's existing assets.
 
-## Handwritten Story Playtest 10
+## Handwritten Story Playtest 11
 
 - Template-generated campaign content has been removed
 - Handwritten Salt Road main-story chapter
@@ -23,6 +23,8 @@ Fan-made campaign expansion built from the original game's existing assets.
 - Added the three-part first-region side story “Lime Dust,” with two adult women and one information broker
 - Supports clue-based inquiry, persuasion, bribery or intimidation, followed by merciful, independent or exploitative outcomes
 - Added a consensual, non-explicit intimacy scene available only after the respectful rescue path; intimidation permanently closes it
+- Expanded the coercive route with detailed but non-graphic aftermath writing that explicitly distinguishes survival from consent
+- Kera remains conversational on the coercive route, using dialogue for reconnaissance, concealment and possible resistance
 - Explicit destination and objective guidance in the mission log
 - Confrontations, refusals, post-story conversations and relationship scenes
 - English, Simplified Chinese and Traditional Chinese text
